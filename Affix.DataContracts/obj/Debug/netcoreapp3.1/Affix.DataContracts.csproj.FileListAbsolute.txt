@@ -1,0 +1,13 @@
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\bin\Debug\netcoreapp3.1\Affix.DataContracts.deps.json
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\bin\Debug\netcoreapp3.1\Affix.DataContracts.runtimeconfig.json
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\bin\Debug\netcoreapp3.1\Affix.DataContracts.runtimeconfig.dev.json
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\bin\Debug\netcoreapp3.1\Affix.DataContracts.dll
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\bin\Debug\netcoreapp3.1\Affix.DataContracts.pdb
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.csprojAssemblyReference.cache
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.AssemblyInfoInputs.cache
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.AssemblyInfo.cs
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.dll
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.pdb
+C:\Users\91812\source\repos\Affix\Affix.DataContracts\obj\Debug\netcoreapp3.1\Affix.DataContracts.genruntimeconfig.cache

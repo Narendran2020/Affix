@@ -1,0 +1,13 @@
+C:\Users\91812\source\repos\Affix\Affix.Common\bin\Debug\netcoreapp3.1\Affix.Common.deps.json
+C:\Users\91812\source\repos\Affix\Affix.Common\bin\Debug\netcoreapp3.1\Affix.Common.runtimeconfig.json
+C:\Users\91812\source\repos\Affix\Affix.Common\bin\Debug\netcoreapp3.1\Affix.Common.runtimeconfig.dev.json
+C:\Users\91812\source\repos\Affix\Affix.Common\bin\Debug\netcoreapp3.1\Affix.Common.dll
+C:\Users\91812\source\repos\Affix\Affix.Common\bin\Debug\netcoreapp3.1\Affix.Common.pdb
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.csprojAssemblyReference.cache
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.AssemblyInfoInputs.cache
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.AssemblyInfo.cs
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.csproj.CoreCompileInputs.cache
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.dll
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.pdb
+C:\Users\91812\source\repos\Affix\Affix.Common\obj\Debug\netcoreapp3.1\Affix.Common.genruntimeconfig.cache
